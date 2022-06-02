@@ -1,0 +1,54 @@
+xtensa_intr_asm.o: \
+ /home/tuananh/esp/esp-idf/components/freertos/xtensa_intr_asm.S \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/hal.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/xtensa-versions.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/tie.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/tie-asm.h \
+ /home/tuananh/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/coreasm.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/specreg.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/corebits.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/system.h \
+ /home/tuananh/esp/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
+ /home/tuananh/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
+ /home/tuananh/esp/example/hello_world/build/include/sdkconfig.h \
+ /home/tuananh/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
+ /home/tuananh/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/hal.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/core.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/xtensa-versions.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/core-matmap.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/tie.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/tie-asm.h:
+
+/home/tuananh/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/coreasm.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/specreg.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/corebits.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/config/system.h:
+
+/home/tuananh/esp/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h:
+
+/home/tuananh/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
+
+/home/tuananh/esp/example/hello_world/build/include/sdkconfig.h:
+
+/home/tuananh/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
+
+/home/tuananh/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h:
+/home/tuananh/esp/esp-idf/components/freertos/./xtensa_intr_asm.S:
